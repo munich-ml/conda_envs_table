@@ -1,0 +1,14 @@
+packages:
+- conda
+- flask
+- ipykernel
+- matplotlib
+- numpy
+- openpyxl
+- pandas
+- pip
+- plotly
+- pydantic
+- pytest
+- python
+- ruamel.yaml
