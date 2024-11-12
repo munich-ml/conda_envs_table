@@ -1,5 +1,5 @@
 # conda_envs_table
-Create an overview table of the installed conda environements.
+__Creates an overview table of the installed conda environements__ including their installed packages and `conda.pth` info. Configuration is done using the `config.yaml` file and the resulting table is stored in the `envs_table.xlsx` file.
 
 ### Example
 ```
