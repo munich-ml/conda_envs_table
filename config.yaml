@@ -1,14 +1,14 @@
 packages:
 - conda
-- flask
 - ipykernel
 - matplotlib
-- numpy
 - openpyxl
 - pandas
 - pip
-- plotly
 - pydantic
 - pytest
 - python
 - ruamel.yaml
+- h2connector
+- json_bourne
+- socket_server_client
